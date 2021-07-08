@@ -1,3 +1,3 @@
 # Mobile first development starter
 
-Take a few moments to read through the HTML and CSS and make sure that you understand how it all works. Use VSCode Live Server to launch a local development server to serve the `index.html` file.
+A mock webpage the dynamically change itls appearnace to best fit the users screen. The application was specifically created with mobile in mind.
